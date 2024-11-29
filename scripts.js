@@ -24,7 +24,6 @@ em.addEventListener('click', function(){
     oggh2.innerHTML = "Looking for a song with a music video directed by Paul Thomas Anderson and starring Zack Galafianakis?"
     songsug.innerHTML = "Not About Love ... 4:19"
     console.log("im trying")
-    document.getElementById('fifipic').src = "fiona-apple-show.jpg"
-    document.getElementById('fifipic').alt = "Picture of a theatre sign advertising a Fiona Apple concert."
-    cappy.innerHTML = "'This was a great show! Not what I was expecting, but awesome! And now I can say Ive seen Fiona Apple live. Finally. After loving her since I was about 15 years old.' by aislinn2000 on Flickr, under CC BY-ND 2.0."
-})
+    document.getElementById('fifipic').src = "oh-well.jpg"
+    document.getElementById('fifipic').alt = " Messy writing of the lyrics, 'What you did to me made me see myself something awful.' from the song 'Oh Well' by Fiona Apple."
+    cappy.innerHTML = '"Fiona Apple - Oh Well" by tophrrrr, on Flickr under CC BY 2.0'})
